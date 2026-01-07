@@ -1,10 +1,6 @@
 # StockFlow - Backend Engineering Case Study
 Submitted by: Prasad Gawade
 
-This repository contains the solution for the B2B Inventory Management System (StockFlow) case study.
-
----
-
 ## [cite_start]Part 1: Code Review & Debugging [cite: 8]
 
 ### [cite_start]Identified Issues [cite: 33]
